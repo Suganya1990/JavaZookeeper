@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZookeeperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-07T16:42:27" hostname="Suganyas-MacBook-Pro.local" time="0.169">
+  <properties/>
+  <testcase name="start" classname="ZookeeperTest" time="0.169"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+I love animals!
+Let's check on the animals...
+The deer looks fine.
+The bat looks happy.
+The lion looks healthy.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
